@@ -65,8 +65,6 @@ function adicionaLinha() {
 
     }
 
-
-
     console.log(`Atividade: ${inputNomeAtividade.value} - Nota: ${inputNotaAtividade.value}`)
 
     inputNomeAtividade.value = '';
